@@ -1,0 +1,6 @@
+{
+  "tasks": {
+    "dev": "npx remarker",
+    "dist": "npx remarker build"
+  }
+}
